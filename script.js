@@ -1,4 +1,5 @@
 //your JS code here. If required.
+
 let fontSize=document.getElementById("fontsize");
 let fontColor=document.getElementById("fontcolor");
 let saveButton=document.getElementById("save");
